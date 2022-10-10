@@ -1,0 +1,33 @@
+.title{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.buton{
+    background-color: #0C243D !important;
+}
+
+.buton-error{
+    background-color: #9D150F !important;
+}
+
+.buton-warning{
+    background-color: #EB8E3C !important;
+}
+
+.buton-success{
+    background-color: #43AE45 !important;
+}
+
+/* Fondo del titulo Table */
+.fondotitulotable {
+    background-color: #0C243D !important;
+    color: white !important;
+    text-align: center !important;
+  }
+
+.fondoecp {
+    background-color: #2C2965 !important;
+    color: white !important;
+    text-align: center !important;
+}
